@@ -1,0 +1,11 @@
+
+ATUALIZAÇÃO - ITENS ADICIONADOS
+  joy.png, joy_ocupada.png, joy_frames/   Enfermeira Joy (folha de fan art; achar o autor e citar)
+  clientes/                               8 NPCs de Pokémon Emerald - folha editada por Furs The Fox (Spriters Resource)
+  pokebola_poke|great|ultra_0..3.png      Folha "Poke Balls" de Pokémon Diamond/Pearl, rip por redblueyellow
+  PokemonGB.ttf                           Fonte "Pokemon GB" (download Fonts2u; uso acadêmico, conferir licença)
+  Painel do HUD: cores/estilo da folha "Pokemon Menu" (FireRed/LeafGreen) rip por RedZagoon; o painel é gerado por código (hud.py)
+  gabriel.png, lara.png, maria.png        Sprites feitos pela equipe (integrantes parados no canto superior direito do cenário; posições em EQUIPE no animacao.py)
+  equipe/<nome>_<quadro>.png              9 quadros (frente, costas, esquerda + caminhada) de gabriel, lara e maria,
+                                          gerados por gerar_sprites_equipe.py a partir dos modelos cliente_1 (Gabriel)
+                                          e cliente_2 (Lara e Maria) com as cores de cada um. A direita é a esquerda espelhada.
